@@ -1,0 +1,4 @@
+1- değişkenlerin (fieldların, properties, attribute) yazıldığında
+sadece Constructor da ya da tanımlandığı yerde Değer alabilir
+
+2- Class ın başında
